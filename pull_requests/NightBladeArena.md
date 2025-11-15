@@ -1,0 +1,1 @@
+Adds the complete Godot project scaffold for the NightBlade Arena 2D fighting game, including scenes, scripts, configs, placeholder assets, and README.
