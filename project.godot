@@ -1,0 +1,5 @@
+[general]
+config_version=2
+
+[rendering]
+viewport_size=1280,720
