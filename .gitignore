@@ -1,0 +1,5 @@
+*.import
+.DS_Store
+*.godot
+.gz
+.libs/
